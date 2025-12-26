@@ -1,4 +1,4 @@
-й# Particler
+# Particler
 
 ![](./media/anim.gif)
 
